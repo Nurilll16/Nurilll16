@@ -57,4 +57,12 @@ p {
 .copy container span {
  color: #ff4a4a;
 }
-  
+.contents {
+  height: 500px;
+}
+.section-title {
+  border-button: 2px solid #dee7ec;
+}
+.contents-item{
+  float: left;
+}

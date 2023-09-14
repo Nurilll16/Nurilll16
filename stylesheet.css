@@ -42,7 +42,19 @@ p {
 .footer-list {
   float: right;
 }
- .footer-list li{
+ .footer-list li {
   padding-botton: 20px;
  }
+.main {
+  padding: 100px 80 px;
+}
+.copy container h1 {
+  font-size: 140px;
+}
+.copy container h1 {
+  font-size: 600px;
+}
+.copy container span {
+ color: #ff4a4a;
+}
   

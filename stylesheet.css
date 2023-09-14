@@ -63,6 +63,9 @@ p {
 .section-title {
   border-button: 2px solid #dee7ec;
 }
-.contents-item{
+.contents-item {
   float: left;
+  margin-right: 40px;
 }
+.contents-item p {
+  font

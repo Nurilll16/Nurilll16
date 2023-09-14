@@ -42,6 +42,7 @@ p {
 .footer-list {
   float: right;
 }
-
-.footer-list
+ .footer-list li{
+  padding-botton: 20px;
+ }
   
